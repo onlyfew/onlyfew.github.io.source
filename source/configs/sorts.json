@@ -8,27 +8,27 @@
     "__positions": {
         "about": 2, 
         "tags": 4, 
-        "_posts/openrestry-install-in-mac.md": 1003, 
+        "_posts/openrestry-install-in-mac.md": 1002, 
         "_posts": 1, 
         "_posts/picture-bed.md": 1001, 
-        "_posts/hello-world.md": 1004, 
-        "_posts/marketing-system-01.md": 1002, 
+        "_posts/hello-world.md": 1003, 
+        "_posts/marketing-system-01.md": 1004, 
         "categories": 3
     }, 
     "_posts": [
         "picture-bed.md", 
-        "marketing-system-01.md", 
         "openrestry-install-in-mac.md", 
-        "hello-world.md"
+        "hello-world.md", 
+        "marketing-system-01.md"
     ], 
     "__raw_positions": {
         "about": 2, 
         "tags": 4, 
-        "_posts/openrestry-install-in-mac.md": 3, 
+        "_posts/openrestry-install-in-mac.md": 2, 
         "_posts": 1, 
         "_posts/picture-bed.md": 1, 
-        "_posts/hello-world.md": 4, 
-        "_posts/marketing-system-01.md": 2, 
+        "_posts/hello-world.md": 3, 
+        "_posts/marketing-system-01.md": 4, 
         "categories": 3
     }
 }
