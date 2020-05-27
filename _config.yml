@@ -101,5 +101,5 @@ theme: next
 deploy:
   type: 'git'
   repo:
-    github: https://github.com/onlyfew/onlyfew.github.io.git
+    github: git@github.com:onlyfew/onlyfew.github.io.git
   branch: master
