@@ -7,6 +7,7 @@ categories: SEO
 ## 说明
 1. 本文为(【SEO】01-网站如何做可控的SEO？)[https://blog.onlyfew.cn/2020/05/31/guoping-seo-01/] 中对应的案例，对照阅读效果更好。
 2. 案例来源为张国平老师的SEO课程，关注公众号“支离书”后台回复“SEO课程”可免费获得课程。
+<!-- more -->
 ## 案例正文
 ![](http://image.onlyfew.cn/bitcron/20200531202824.png)
 1、现象：到元旦跌到了高峰期的1/4

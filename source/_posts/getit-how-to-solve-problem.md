@@ -4,13 +4,11 @@ date: 2020-06-02 22:00
 tags: [学习, 认知, 罗胖, 解决问题]
 categories: 认知
 ---
-## 概述&参考资源
-链接：https://m.igetget.com/share/live?id=nrRolmKY1BrkNgJ6yLXW7DO8p1gXI8jNJeEO95gPe9ajvZn4zA0q3ExGd5b2MVlW
-笔记人：支离书（公众号同名）
 ## 一、解决问题的人是一个全新工种
 #### 现象：
 - 好多人开始搞副业
 - 好些人在跨专业
+<!-- more -->
 #### 观点：
 - 解决问题的人是一个全新工种
 - 为什么会出现这个现象？
@@ -103,3 +101,6 @@ https://piccdn3.umiwi.com/img/202006/02/202006022122211189993537.png@400w
 要时时回望初心和目标
 日常性疼痛
 折叠他人的时间和经验解决各类疼痛
+## 参考资源
+链接：https://m.igetget.com/share/live?id=nrRolmKY1BrkNgJ6yLXW7DO8p1gXI8jNJeEO95gPe9ajvZn4zA0q3ExGd5b2MVlW
+笔记人：支离书（公众号同名）
